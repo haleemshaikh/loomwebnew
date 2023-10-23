@@ -1,0 +1,69 @@
+     
+     
+     
+      callDash: dash,                            callDash
+      showSortedCompo: sort,                     SortedCompo   // sort_component
+      showListCompo: list,                       list_component
+      showFormCompo: form,                       form_component
+      showReportCompo: report,                   report_component
+      showMultiInsert: multiInsert,              multi_insert
+      showMultiPage: multiPage,                  multi_page
+      showClientReg: clien_reg,                client_registration
+      showPropCompo: properties,               properties_component
+      showOwnerPrefComp: ownerPref,            ownerPrefrence
+      showThemeCompo: theme,                   themedesign_component
+      showMultiTable: multiTable,              multiTableRelation
+      showChecklistCompo: checklist,           checkList_component
+      showViewCompo: view,                     formview_component
+      showClientInfo: clientinfo,              clientInfoCompo
+      showClientInfoRec: clientInfoRec,        clientInfoRecCompo
+      showRoleSelectionCompo: roleSelection,   roleSelectionComponent
+      showHtmlPage: htmlpage,                  htmlPage
+      sendLandingPref: landingPref,
+      showUiPageCompo: uiPage,                 uipage_component
+      showVariableCompo: variable,
+      showStatusCompo: status,                 loomstatus
+      showTabularReport: tabularReport,        tabularReport
+      showViewTabularReport: viewReport        viewTabularReport
+
+
+
+       showLoginCompo: login,
+      showRegister: register,
+      showForgetPassword: forget,
+      showGenerateNewPin: newpin,
+      showOtpVerification: otpvrf,
+      showNewPassword: newpass,
+      showMainCompo: maincompo,
+
+
+      // compoent which did found above list
+      
+      
+      
+      demoComponent
+      ForgetPassword
+      form_componentMP
+      FormInner_Component
+      generateNewPin
+      impersonationCompo
+      left_navigation
+      login
+      model_list
+      multiInsertMT
+      multipleSelectCompo
+      NewFilterCompo
+      OtpVerification
+      preference_component
+      register_component
+      relationlist_component
+      setNewPassword
+      subclient
+      Test
+      testComponent
+      userNotification
+      VarBlankCompo
+      work_in_progress
+      WorkInProgressSmall
+      
+      
